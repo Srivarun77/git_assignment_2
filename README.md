@@ -10,5 +10,7 @@ Roll No : 2024BCS-004
 
 Course : CSE
 
-Semester : 5
+Semester: 5
+
+
 
